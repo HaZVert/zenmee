@@ -1,0 +1,137 @@
+body{
+    background: url(imgonline-com-ua-Resize-1I5jpbPLA9iNU.jpg);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1020px;
+    height: 960px;
+    left: 0px;
+    top: 0px;
+    margin:0px;
+
+}
+
+.head{
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 11px;
+    margin-top: 30px;
+    display:flex;
+}
+
+#logo{
+    margin-left: 80px;
+    margin-right: 140px;
+    height: 40px;
+    width: 40px;
+}
+
+#main{
+    margin-right: 50px;
+}
+
+#courses{
+    margin-right: 50px;
+}
+
+#schedule{
+    margin-right: 50px;
+}
+
+#teachers{
+    margin-right: 50px;
+}
+
+#mailing{
+    margin-right: 50px;
+}
+
+#contacts{
+    margin-right: 150px;
+}
+
+
+
+.f_course{
+    color: #FFFFFF;
+    
+    
+   
+    
+}
+
+#office{
+  
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+width: 183px;
+height: 44px;
+left: 1050px;
+top: 38px;
+color: #FFFFFF;
+margin-top: -10px;
+
+background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+border-radius: 50px;
+}
+
+#office:hover{
+    scale: 1.12;
+    transition: all 0.2s;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#per{
+    margin-top: 170px;
+    margin-left: 130px;
+    font-size:50px;
+    font-family: 'Roboto';
+}
+
+.ku{
+    display: flex;
+    text-align: center;
+    font-family: 'Roboto';
+    color: #FFFFFF;
+    font-size: 25px;
+    
+}
+
+#one{
+    background-color: #121212;
+    width: 100px;
+    height: 100px;
+    margin-left: 130px;
+    padding-top: 30px;
+    
+}
+#two {
+    background-color: #121212;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+#three{
+   background-color: #121212;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+#four{
+    background-color: #121212;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    padding-top: 30px;
+}
